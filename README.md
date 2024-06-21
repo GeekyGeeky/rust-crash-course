@@ -21,7 +21,7 @@ If you wish to setup the project locally, you can clone the repositories and fol
 ### Clone the project
 
 ```bash
-    git clone https://github.com/geekygeeky/rust-crash-course
+git clone https://github.com/geekygeeky/rust-crash-course
 ```
 
 ### Run each lesson
@@ -40,6 +40,9 @@ $ make run
 ### Create new lesson
 
 To create a lesson, make sure you are in the root directory then run the `make run p=<new-lesson>` command. This would create the barebones of what you need to get started running your lessons.
+
 > Replace `<new-lesson>` with your desired lesson name, e.g. `make run p=rust-db-lesson`
+
+## Acknowledgement
 
 This repo is inspired by a [Youtube course on Rust](www.youtube.com/watch?v=rQ_J9WH6CGk), you can check out the video if you would like to follow up each lesson with a video.
