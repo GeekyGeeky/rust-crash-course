@@ -45,4 +45,4 @@ To create a lesson, make sure you are in the root directory then run the `make r
 
 ## Acknowledgement
 
-This repo is inspired by a [Youtube course on Rust](www.youtube.com/watch?v=rQ_J9WH6CGk), you can check out the video if you would like to follow up each lesson with a video.
+This repo is inspired by a [Youtube course on Rust](https://www.youtube.com/watch?v=rQ_J9WH6CGk), you can check out the video if you would like to follow up each lesson with a video.
